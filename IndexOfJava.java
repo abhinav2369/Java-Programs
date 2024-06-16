@@ -1,4 +1,4 @@
-public class MyClass{
+public class IndexOfJava{
   public static void main(String[] args){
 
     // Declaring Word

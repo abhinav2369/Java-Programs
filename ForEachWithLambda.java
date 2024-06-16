@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class MyClass{
+public class ForEachWithLambda{
   public static void main(String[] args){
 
     // ArrayList Initiailized

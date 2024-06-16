@@ -1,4 +1,4 @@
-public class MyClass{
+public class Array{
 
   // Array Declaration
   static String[] array = {"abc","def","ghi","ijk"};

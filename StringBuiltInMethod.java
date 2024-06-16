@@ -1,4 +1,4 @@
-public class MyClass{
+public class StringBuiltInMethod{
   public static void main(String[] args){
 
     // Declaring Sentence

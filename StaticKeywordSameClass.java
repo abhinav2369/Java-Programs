@@ -1,6 +1,6 @@
 import java.lang.*;
 
-public class MyClass{
+public class StaticKeywordSameClass{
   
   // Static Method
   public static void StaticMethod(){
@@ -19,7 +19,7 @@ public class MyClass{
     StaticMethod();
 
     // creating instance of MyClass in same class in main function
-    MyClass new_instance = new MyClass();
+    StaticKeywordSameClass new_instance = new StaticKeywordSameClass();
     new_instance.NonStaticMethod();
   }
   
